@@ -14,7 +14,7 @@
 
 - 💻 **Tech Enthusiast**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshavardhan1432](https://github.com/harshavardhanponduru)
+- 👨‍💻 All of my projects are available at [https://github.com/harshavardhanponduru](https://github.com/harshavardhanponduru)
 
 - 📫 How to reach me **harshavardhanponduru@gmail.com**
 
